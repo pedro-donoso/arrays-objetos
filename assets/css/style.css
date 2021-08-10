@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    border: solid 2px rgb(34, 1, 8);
+    color: rgb(14, 3, 44);
+    text-align: justify;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    width: 82%;
+    background-color: rgb(243, 229, 26);
+    padding: 1rem;
+}
